@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\bin\Debug\net8.0\VehicleRentalManagementSystem.exe
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\bin\Debug\net8.0\VehicleRentalManagementSystem.deps.json
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\bin\Debug\net8.0\VehicleRentalManagementSystem.runtimeconfig.json
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\bin\Debug\net8.0\VehicleRentalManagementSystem.dll
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\bin\Debug\net8.0\VehicleRentalManagementSystem.pdb
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.AssemblyInfo.cs
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.dll
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\refint\VehicleRentalManagementSystem.dll
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.pdb
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\VehicleRentalManagementSystem.genruntimeconfig.cache
+C:\Users\acer\Desktop\winFormsApps\VehicleRentalManagementSystem\VehicleRentalManagementSystem\obj\Debug\net8.0\ref\VehicleRentalManagementSystem.dll
